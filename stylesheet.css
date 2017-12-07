@@ -1,0 +1,16 @@
+body {
+  margin:      4em;
+}
+
+input {
+  width:       100%;
+  border:      none;
+  padding:     0;
+  margin:      none;
+  font-family: monospace;
+  font-size:   inherit;
+}
+
+#output {
+  margin: 0;
+}
